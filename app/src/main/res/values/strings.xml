@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">hw2KOTLIN1</string>
+    <string name="todo">TODO</string>
+    <string name="submit">submit</string>
+    <string name="text">Введите текст</string>
+    <string name="random_button">random</string>
+    <string name="success">фортануло</string>
+    <string name="valid_url">Не фортануло</string>
+</resources>
